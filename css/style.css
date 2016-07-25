@@ -1,0 +1,111 @@
+body {
+	background: white;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+	color:inherit;
+}
+
+h1 {
+	color:#67B3FE;
+	text-align: center;
+}
+
+hr {
+	width: 100px;
+}
+
+p {
+	font-size: 14;
+}
+
+#menubar {
+	height:40px;
+	background:dimgray;
+	width:900px;
+	position:relative; 
+	margin:auto; top:40px;
+	font-family:'Lato', sans-serif; 
+	font-size:20; 
+	color:#67B3FE;
+}
+
+#logo {
+	width:95px;
+	height:95px;
+	border-radius:100%;
+	border:solid;
+	border-width:8px;
+	border-color:gray;
+	background:white;
+	box-shadow: 0px 3px 3px black;
+	margin:auto; position:absolute;
+	top:-40;
+	left:0; 
+	right:0;
+}
+
+#logoimage {
+	margin:2px;
+	width:90px;
+}
+
+#leftmenu {
+	position:relative; 
+	top:7px;
+	left:25px;
+}
+
+#rightmenu {
+	position:relative; 
+	top:7px;	
+	left:200px;
+}
+
+.menuitems {
+	margin:20px;
+}
+
+#content {
+	width:800px;
+	height:500px;
+	margin:auto;
+	position: relative;
+	border-style: solid;
+	border-width:0px;
+	top:100px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#contentleft {
+	width:45%;
+	position:absolute;
+	left:26px;
+}
+
+#contentright {
+	width: 45%;
+	position: absolute;
+	left:420px;
+}
+
+#contentline {
+	position: absolute;
+	border-style:dotted;
+	border-width:0 1px 0 0;
+	left: 398px;
+}
+
+#contactbar {
+	text-align:right;
+	position:relative;
+	margin:auto;
+	top:150px;
+	width:800px;
+}
+
+.badges	{
+	margin:5px;
+}
