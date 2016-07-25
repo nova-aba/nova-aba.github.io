@@ -24,6 +24,7 @@ p {
 div#main {
 	background:white;
 	height:100vh;
+	min-height:100%;
 	width:840px;
 	margin: auto;
 	border-style:solid;
