@@ -23,8 +23,8 @@ p {
 
 div#main {
 	background:white;
-	height:100vh;
-	min-height:100%;
+	min-height:750px;
+	height: 100%;
 	width:840px;
 	margin: auto;
 	border-style:solid;
