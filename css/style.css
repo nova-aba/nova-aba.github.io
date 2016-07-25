@@ -33,8 +33,8 @@ div#main {
 #menubar {
 	height:40px;
 	background:dimgray;
-	width:900px;
-	position:absolute;
+	width:840px;
+	position:relative;
 	left:0;
 	right:0;
 	margin:auto; top:40px;
@@ -66,13 +66,13 @@ div#main {
 #leftmenu {
 	position:relative; 
 	top:7px;
-	left:25px;
+	left:10px;
 }
 
 #rightmenu {
 	position:relative; 
 	top:7px;	
-	left:200px;
+	left:170px;
 }
 
 .menuitems {
