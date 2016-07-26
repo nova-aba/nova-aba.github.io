@@ -88,7 +88,6 @@ div#main {
 	border-width:0px;
 	top:100px;
 	font-family: 'Montserrat', sans-serif;
-	background:red;
 }
 
 #contentleft {
@@ -116,7 +115,6 @@ div#main {
 	margin:auto;
 	top:150px;
 	width:800px;
-	background: pink;
 }
 
 .badges	{
