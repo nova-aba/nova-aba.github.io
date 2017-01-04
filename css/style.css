@@ -18,7 +18,7 @@ hr {
 }
 
 p {
-	font-size: 12;
+	font-size: 14;
 }
 
 div#main {
@@ -87,7 +87,7 @@ div#main {
 	border-style: solid;
 	border-width:0px;
 	top:100px;
-	font-family: "Arial Narrow", "Arial", "Helvetica", sans-serif;
+	font-family: "Arial", "Helvetica", sans-serif;
 }
 
 #contentleft {
